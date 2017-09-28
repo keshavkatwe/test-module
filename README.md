@@ -3,6 +3,11 @@ Number Formatter
 
 A small library that adds commas to numbers
 
+[![Build Status](https://travis-ci.org/keshavkatwe/test-module.svg?branch=master)](https://travis-ci.org/keshavkatwe/test-module)
+[![Coverage Status](https://coveralls.io/repos/github/keshavkatwe/test-module/badge.svg)](https://coveralls.io/github/keshavkatwe/test-module)
+
+
+
 ## Installation
 
   `npm install @keshav.katwe/test-module`
