@@ -1,6 +1,6 @@
 {
   "name": "@keshav.katwe/test-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This is just for testing. Nothing serious",
   "main": "index.js",
   "scripts": {
